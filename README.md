@@ -1,10 +1,15 @@
 # DIGITAL-FILTER-DESIGN
 
-**COMPANY:** CODTECH IT SOLUTIONS  
+**COMPANY:** CODTECH IT SOLUTIONS
+
 **NAME:** Mallikarjun S G 
-**INTERN ID:** CTIS5769 
+
+**INTERN ID:** CTIS5769
+
 **DOMAIN:** VLSI  
-**DURATION:** 4 Weeks  
+
+**DURATION:** 4 Weeks 
+
 **MENTOR:** Neela Santosh 
 
 ---
